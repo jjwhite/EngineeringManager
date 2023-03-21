@@ -13,4 +13,7 @@
 - Are there any messages, emails, tags that I need to follow up on?
 - Does the backlog need grooming?
 - Expense reports, training, reports, compliance tasks?
+- Monitoring - does anything need monitoring right now?
 
+## Decisions
+- What decisions need to be made?  Do I have all the information I need?
