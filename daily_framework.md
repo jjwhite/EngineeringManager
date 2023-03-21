@@ -7,6 +7,7 @@
 ## People
 - Who do I need to follow up with?
 - Does anyone need feedback today?
+- Hiring: do I need to look for candidates or follow up with any?  Always move quickly.
 
 ## Administrative
 - Are there any messages, emails, tags that I need to follow up on?
