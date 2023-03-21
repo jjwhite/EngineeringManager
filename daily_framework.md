@@ -17,3 +17,6 @@
 
 ## Decisions
 - What decisions need to be made?  Do I have all the information I need?
+
+## Learning
+- Is there anything I need to learn or brush up on?
